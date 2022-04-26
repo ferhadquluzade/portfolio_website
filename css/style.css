@@ -14,7 +14,7 @@
 body {
     line-height: 1.5;
     font-size: 16px;
-    font-family: 'Poppins'sans-serif;
+    font-family: 'Poppins' sans-serif;
 }
 
 * {
@@ -125,7 +125,7 @@ ul {
     height: 2px;
     width: 18px;
     background: var(--skin-color);
-    position:relative;
+    position: relative;
 }
 
 
